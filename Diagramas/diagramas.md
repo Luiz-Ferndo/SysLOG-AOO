@@ -115,3 +115,10 @@ Neste diagrama estão expostos os componentes essenciais para o funcionamento do
 
 
 ![DiagramaDeComponentesSyslog.drawio.png](https://github.com/user-attachments/assets/12ef6a5d-f2a9-47ed-bcc4-8a3732e49430)
+
+### 🔹 Diagrama de Arquitetura
+Neste diagrama está presente a arquitetura completa do sistema e suas interações.
+
+
+https://drive.google.com/file/d/1BYnJ5sC37Gu_omQz3sPvYZUWFpQTm1pY/view?usp=sharing
+
