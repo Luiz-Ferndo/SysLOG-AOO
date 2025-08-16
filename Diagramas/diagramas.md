@@ -91,7 +91,7 @@ Nesse diagrama ilustra-se os estados que uma viagem pode apresentar.
 ### Estados - Carga
 Nesse diagrama ilustra-se os estados que uma carga pode apresentar.
 
-![diag_estado_carga](https://github.com/user-attachments/assets/35a1c871-6199-400b-b415-09ca54c2c0e3)
+![diag_estado_carga.png](https://github.com/lemacx/SysLOG-AOO/blob/1b2a9a83e60ef9987fa609d2451b4aa367181877/Diagramas/Estado/diag_estado_carga.png)
 
 ### Estados - Manutenção
 Nesse diagrama ilustra-se os estados que a manutenção de um veiculo pode apresentar.
@@ -109,3 +109,16 @@ Neste diagrama ilustra-se várias das classes, com seus respectivos métodos, qu
 
 
 ![diag_classes](../Diagramas/Classes/diag_classes)
+
+### 🔹 Diagrama de Componentes
+Neste diagrama estão expostos os componentes essenciais para o funcionamento do syslog e suas relações dentro do sistema.
+
+
+![DiagramaDeComponentesSyslog.drawio.png](https://github.com/user-attachments/assets/12ef6a5d-f2a9-47ed-bcc4-8a3732e49430)
+
+### 🔹 Diagrama de Arquitetura
+Neste diagrama está presente a arquitetura completa do sistema e suas interações.
+
+
+https://drive.google.com/file/d/1BYnJ5sC37Gu_omQz3sPvYZUWFpQTm1pY/view?usp=sharing
+
